@@ -2,7 +2,7 @@
 
 Dataset Explanation:
 
-Dataset Used: Porto Seguro’s Safe Driver Prediction Dataset - Kaggle
+Dataset Used: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/data
 
 Size: train.csv (110 MB), test.csv (164 MB)
 
